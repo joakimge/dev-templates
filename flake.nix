@@ -32,6 +32,7 @@
 
         ts = {
           path = ./ts;
+          description = "Typescript dev template with lsp and pnpm";
         };
 
         default = self.templates.java;

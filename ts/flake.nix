@@ -24,6 +24,7 @@
               typescript
               typescript-language-server
               nodejs
+              pnpm
             ];
           };
         }
